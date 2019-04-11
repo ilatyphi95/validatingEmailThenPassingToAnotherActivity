@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleEmailValidation</string>
+    <string name="email">Email</string>
+    <string name="password">Password:</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="enter_email">Enter Email Address</string>
+    <string name="enter_password">Enter your password</string>
+</resources>
